@@ -1,0 +1,35 @@
+/* tagname or clssname or id */
+body{
+    background-color: black;
+}
+#first{
+    color:rgb(238, 13, 13) ;
+}
+#second{
+    color: blue;
+}
+.item{
+    color: aqua;
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+.item2{
+    color: beige;
+    /*text-decoration: line-through;*/
+    text-decoration: overline;
+    text-decoration-color: greenyellow;
+}
+.list_item{
+    color: green;
+    text-decoration: underline;
+}
+.list_item{
+    text-decoration: underline;
+}
+/*.main-head{
+    color: palevioletred;
+}*/
+.main-head h1:nth-child(2){
+    color: aqua;
+}
+

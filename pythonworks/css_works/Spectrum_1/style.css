@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.row{
+    width: 100%;
+    height: 170px;
+    background-color: black;
+    border: 1px solid black;
+    display: flex;
+   justify-content: center;
+   margin-top: 2%;
+   
+}
+.col{
+    width: 7%;
+    height: 150px;
+    
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    align-items:flex-start ;
+}
+.one{
+    background-color:rgb(56, 57, 57) ;   
+}
+.two{
+    background-color:rgb(41, 62, 41) ;
+}
+.three{
+    background-color:rgb(42, 118, 42) ;
+}
+.four{
+    background-color:rgb(18, 212, 18) ;
+}
+.five{
+    background-color:rgb(158, 160, 158)  ;
+}
+
+.six{
+    background-color:orangered ;   
+}
+.seven{
+    background-color:rgb(164, 7, 59) ;    
+}
+.eight{
+    background-color:rgb(97, 55, 69) ;
+}
+.nine{
+    background-color:rgb(78, 29, 82);
+}
+.ten{
+    background-color:rgb(144, 6, 144) ;
+}
+.eleven{
+    background-color:rgb(80, 5, 80) ;
+}
+.twelve{
+    background-color:rgb(67, 54, 67) ;
+}
+
+.thirteen{
+    background-color:rgb(9, 127, 143) ;
+}
+.fourteen{
+    background-color:rgb(110, 212, 110);
+}
+.fifteen{
+    background-color:rgb(224, 94, 46);
+}
+.sixteen{
+    background-color:rgb(89, 3, 32);
+}
+.seventeen{
+    background-color:rgb(32, 1, 11);
+}
+.eighteen{
+    background-color:rgb(70, 175, 158);
+}
+.nineteen{
+    background-color:rgb(1, 86, 39);
+}
+.twenty{
+    background-color:rgb(66, 22, 66);
+}
+.twentyone{
+    background-color:rgb(33, 1, 33);
+}

@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.box{
+    /* width: 400px; */
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid black;
+
+}
+.box-one{
+    margin-right: auto;
+}
+
+.box-two{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box-three{
+    margin-left: auto;
+}
